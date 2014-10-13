@@ -1,0 +1,6 @@
+benchmarks/
+coverage/
+test/
+testing.js
+.DS_Store
+.travis.yml
