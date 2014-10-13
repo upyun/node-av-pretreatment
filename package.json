@@ -1,6 +1,6 @@
 {
   "name": "upyun-av-pretreatment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "upyun av pretreatment sdk for node.js",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,14 @@
   "contributors": [
     "Leigh Zhu"
   ],
+  "bugs": {
+    "url": "https://github.com/upyun/node-av-pretreatment/issues"
+  },
+  "homepage": "https://github.com/upyun/node-av-pretreatment",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:upyun/node-av-pretreatment.git"
+  },
   "license": "MIT",
   "dependencies": {
     "request": "^2.45.0"
